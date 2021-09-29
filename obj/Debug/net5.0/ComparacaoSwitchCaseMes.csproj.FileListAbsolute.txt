@@ -1,0 +1,16 @@
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\bin\Debug\net5.0\ComparacaoSwitchCaseMes.exe
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\bin\Debug\net5.0\ComparacaoSwitchCaseMes.deps.json
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\bin\Debug\net5.0\ComparacaoSwitchCaseMes.runtimeconfig.json
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\bin\Debug\net5.0\ComparacaoSwitchCaseMes.runtimeconfig.dev.json
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\bin\Debug\net5.0\ComparacaoSwitchCaseMes.dll
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\bin\Debug\net5.0\ref\ComparacaoSwitchCaseMes.dll
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\bin\Debug\net5.0\ComparacaoSwitchCaseMes.pdb
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\obj\Debug\net5.0\ComparacaoSwitchCaseMes.csproj.AssemblyReference.cache
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\obj\Debug\net5.0\ComparacaoSwitchCaseMes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\obj\Debug\net5.0\ComparacaoSwitchCaseMes.AssemblyInfoInputs.cache
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\obj\Debug\net5.0\ComparacaoSwitchCaseMes.AssemblyInfo.cs
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\obj\Debug\net5.0\ComparacaoSwitchCaseMes.csproj.CoreCompileInputs.cache
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\obj\Debug\net5.0\ComparacaoSwitchCaseMes.dll
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\obj\Debug\net5.0\ref\ComparacaoSwitchCaseMes.dll
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\obj\Debug\net5.0\ComparacaoSwitchCaseMes.pdb
+C:\Projetos\AMS\1ano\EstriturasSwitchCase\ComparacaoSwitchCaseMes\obj\Debug\net5.0\ComparacaoSwitchCaseMes.genruntimeconfig.cache
